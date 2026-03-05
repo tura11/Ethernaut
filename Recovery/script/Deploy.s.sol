@@ -16,7 +16,7 @@ contract Deploy is Script {
             bytes1(0x94),
             recoveryAddress,
             bytes1(0x01)
-            )))));
+            ))))); // we are calculating the lost token contract address by contract who deployed Token and nonce in this case nonce is 1 because its first deploy.
         
         console.log("lostToken: ", lostToken);
 
