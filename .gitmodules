@@ -1,3 +1,6 @@
 [submodule "Dex/lib/openzeppelin-contracts"]
 	path = Dex/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "Dex2/lib/openzeppelin-contracts"]
+	path = Dex2/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
